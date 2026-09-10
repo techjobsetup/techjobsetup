@@ -49,11 +49,40 @@ I help tech professionals **build a complete career identity** across GitHub, Li
 
 ## 📊 Delivery Process
 
+<div align="center">
+
+### ✨ Elegant 5-Phase Transformation Journey
+
 ```
-DM Keyword → Profile Audit → Strategy Development → Build & Optimize → Launch & Monitor
+┌─────────────────┐      ┌──────────────────┐      ┌──────────────────┐      ┌──────────────────┐      ┌─────────────────┐
+│                 │      │                  │      │                  │      │                  │      │                 │
+│  📲 DM KEYWORD  │─────▶│  🔍 PROFILE AUDIT│─────▶│ 📋 STRATEGY DEV  │─────▶│ 🛠️ BUILD & OPT  │─────▶│ 🚀 LAUNCH       │
+│                 │      │                  │      │                  │      │                  │      │                 │
+│  Intake (24h)   │      │  Analysis (48h)  │      │  Planning (2-3d) │      │  Execute (1-2w)  │      │  Monitor        │
+│                 │      │                  │      │                  │      │                  │      │                 │
+└─────────────────┘      └──────────────────┘      └──────────────────┘      └──────────────────┘      └─────────────────┘
+        ▲                          ▲                         ▲                          ▲                         ▲
+        │                          │                         │                          │                         │
+        └──────────────────────────┴─────────────────────────┴──────────────────────────┴─────────────────────────┘
+                                   Continuous Improvement & Optimization
 ```
 
-**Simple workflow:** One message to get started.  
+</div>
+
+### 📍 Process Phases Breakdown:
+
+<div align="center">
+
+| Phase | Timeline | Deliverable | Status |
+|:---:|:---:|:---|:---:|
+| **1️⃣ DM Keyword Intake** | 24 hrs | Initial consultation & needs assessment | 📲 Start |
+| **2️⃣ Profile Audit** | 48 hrs | Deep analysis + gap identification + competitor research | 🔍 Analyze |
+| **3️⃣ Strategy Development** | 2-3 days | Custom optimization plan + action roadmap + timeline | 📋 Plan |
+| **4️⃣ Build & Optimize** | 1-2 weeks | Design + copywriting + technical setup + deployment | 🛠️ Create |
+| **5️⃣ Launch & Monitor** | Ongoing | Live deployment + performance tracking + monthly reviews | 🚀 Launch |
+
+</div>
+
 **Keyword options:** PORTFOLIO | LINKEDIN | JOB
 
 ---
