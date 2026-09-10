@@ -6,7 +6,7 @@
 
 **Resume Optimization • Career Branding • Recruiter Positioning**
 
-![Banner](./assets/banner.svg)
+![Banner](./assets/banner.png)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@techjob__setup-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/techjob_setup/)
 [![Contact](https://img.shields.io/badge/Contact-DM%20Now-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://www.instagram.com/techjob_setup/)
@@ -21,7 +21,7 @@
 
 ## 👤 About
 
-I help tech professionals **build a complete career identity** across GitHub, LinkedIn, and personal portfolios. My approach combines classical career strategies with modern visual branding to maximize recruiter visibility and interview opportunities.
+I help tech professionals **build a complete career identity** across GitHub, LinkedIn, and personal portfolios. My approach combines classical career strategies with modern visual branding to maximize recruiter visibility and career growth.
 
 **Core Expertise:**
 - 🔧 Resume & LinkedIn optimization
