@@ -1,98 +1,144 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Made%20with-AI-9F7AEA?style=for-the-badge" alt="Made with AI" />
+# 🚀 Tech Job Setup
+
+## Build a Standout Career Profile on GitHub, LinkedIn & Beyond
+
+**Resume Optimization • Career Branding • Recruiter Positioning**
+
+[![Instagram](https://img.shields.io/badge/Instagram-@techjob__setup-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/techjob_setup/)
+[![Contact](https://img.shields.io/badge/Contact-DM%20Now-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://www.instagram.com/techjob_setup/)
+[![Location](https://img.shields.io/badge/Location-Hyderabad,%20India-3B82F6?style=flat-square&logo=googlemaps&logoColor=white)](#)
+
+![Career Growth](https://img.shields.io/badge/Focus-Career%20Growth%20%26%20Visibility-7C3AED?style=flat-square)
+![Made with AI](https://img.shields.io/badge/Made%20with-AI%20Powered%20Strategies-9F7AEA?style=flat-square)
 
 </div>
 
-![Career Growth Banner](./assets/career-banner.png)
+---
+
+## 👤 About
+
+I help tech professionals **build a complete career identity** across GitHub, LinkedIn, and personal portfolios. My approach combines classical career strategies with modern visual branding to maximize recruiter visibility and interview opportunities.
+
+**Core Expertise:**
+- 🔧 Resume & LinkedIn optimization
+- 🎯 GitHub profile branding & README design
+- 💻 C# automation engineering guidance (UI testing, API validation, desktop testing)
+- 🌐 Portfolio website design & strategy
+
+---
+
+## 🎯 Services
 
 <div align="center">
 
-<img src="./assets/techjob-banner.png" alt="Tech Job Setup Banner" width="100%" />
-
-## 🌟 Build a Standout Career Profile on GitHub and Beyond
-
-**Classical profile strategy • Modern visual branding • Recruiter-first positioning**
-
-[![Instagram](https://img.shields.io/badge/Instagram-@techjob__setup-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techjob_setup/)
-[![DM to Start](https://img.shields.io/badge/DM-PORTFOLIO%20%7C%20LINKEDIN%20%7C%20JOB-F59E0B?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.instagram.com/techjob_setup/)
-[![Location](https://img.shields.io/badge/Hyderabad-Telangana-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=23&duration=2300&pause=900&color=7C3AED&center=true&vCenter=true&width=920&lines=Resume+Optimization+%E2%80%A2+LinkedIn+Enhancement+%E2%80%A2+GitHub+Branding" alt="typing" />
+| Service | Description |
+|---------|-------------|
+| **🔗 LinkedIn Optimization** | Headline strategy, keyword mapping, featured content, recruiter targeting |
+| **📋 Resume Enhancement** | ATS optimization, impact-driven bullet points, technical highlighting |
+| **🐙 GitHub Profile Branding** | Premium README design, repo pinning strategy, technical showcase |
+| **🖥️ Portfolio Development** | Clean, responsive design with recruiter-focused storytelling |
+| **⚙️ Automation Engineering** | C# mentorship, testing frameworks, desktop & API automation |
+| **💼 Naukri & Job Portals** | Complete profile setup, keyword strategy, ranking improvement |
 
 </div>
 
 ---
 
-## 👤 About Me
+## 📊 Delivery Process
 
-I specialize in empowering candidates to build a complete career-oriented identity across `LinkedIn`, `GitHub`, and personal portfolios. My expertise includes resume optimization, profile enhancement, and recruiter-focused positioning.
-
-In addition, I provide tailored career guidance for professionals pursuing roles as Automation Engineers. This includes mentoring on C# automation, UI testing, API validation, and desktop testing practices.
-
----
-
-## 🏛️ Classical Services
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=84&color=0:1E3A8A,50:7C3AED,100:F59E0B&text=Premium%20Career%20Branding%20Services&fontSize=28&fontColor=ffffff" alt="services" />
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%">💠 <strong>LinkedIn Optimization</strong><br/>Headline architecture, recruiter keyword mapping, featured section setup, and visibility tuning.</td>
-    <td width="50%">⚜️ <strong>Naukri & Job Portal Optimization</strong><br/>Complete profile setup, role-aligned keyword strategy, and ranking improvements.</td>
-  </tr>
-  <tr>
-    <td width="50%">🛡️ <strong>GitHub Profile Branding</strong><br/>Premium `README`, pinned repository strategy, and technical showcase structure.</td>
-    <td width="50%">✨ <strong>Portfolio Website Design</strong><br/>Clean, mobile-responsive portfolio with recruiter-focused storytelling.</td>
-  </tr>
-  <tr>
-    <td width="50%">⚙️ <strong>C# Automation Guidance</strong><br/>C# fundamentals, UI testing, API validation, and desktop testing mentorship.</td>
-    <td width="50%">🎯 <strong>Final Outcome</strong><br/>Higher recruiter visibility, stronger trust, and improved interview opportunities.</td>
-  </tr>
-</table>
-
----
-
-## 🧭 Delivery Flow
-
-```mermaid
-flowchart LR
-    A[📩 DM Keyword] --> B[🔎 Profile Audit]
-    B --> C[🧠 Strategy]
-    C --> D[🛠️ Build & Optimize]
-    D --> E[🚀 Launch]
-    style A fill:#1E3A8A,color:#fff,stroke:#0F172A
-    style B fill:#7C3AED,color:#fff,stroke:#0F172A
-    style C fill:#F59E0B,color:#0F172A,stroke:#0F172A
-    style D fill:#1D4ED8,color:#fff,stroke:#0F172A
-    style E fill:#0F172A,color:#fff,stroke:#0F172A
+```
+DM Keyword → Profile Audit → Strategy Development → Build & Optimize → Launch & Monitor
 ```
 
+**Simple workflow:** One message to get started. Keyword options: **PORTFOLIO** | **LINKEDIN** | **JOB**
+
 ---
 
-## 💻 Tech Stack & Tools
+## 💡 What You'll Get
+
+✅ **Higher Recruiter Visibility** — Optimized profiles across all platforms  
+✅ **Stronger Professional Brand** — Consistent messaging and visual identity  
+✅ **Better Interview Opportunities** — Strategic keyword placement and positioning  
+✅ **Technical Credibility** — Showcased projects and verified skills  
+✅ **Actionable Guidance** — Personalized career mentorship  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat-square&logo=html5&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+
+---
+
+## 🚀 Quick Start
+
+1. **Message on Instagram:** [@techjob_setup](https://www.instagram.com/techjob_setup/)
+2. **Choose Your Focus:**
+   - 🟣 **PORTFOLIO** — Build your online presence
+   - 🔵 **LINKEDIN** — Optimize your profile
+   - 🟢 **JOB** — Job search strategy
+3. **Receive Personalized Strategy** — Based on your profile audit
+4. **Get Implementation Support** — From design to deployment
+
+---
+
+## 📋 Career Guidance Topics
+
+### For Automation Engineers
+- ✅ C# fundamentals & advanced concepts
+- ✅ UI test automation (Selenium, WinAppDriver)
+- ✅ API testing & validation
+- ✅ Desktop application testing
+- ✅ Test framework design patterns
+- ✅ CI/CD integration for tests
+
+### For Profile Building
+- ✅ GitHub profile optimization
+- ✅ README design & storytelling
+- ✅ Portfolio project selection
+- ✅ Technical writing & documentation
+- ✅ Open source contribution strategy
+
+---
+
+## 📬 Get Started
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,github,git,html,css,js,react,vscode&theme=dark" alt="skills" />
+
+### One Keyword Away From Career Growth
+
+**Send a DM with:** PORTFOLIO • LINKEDIN • JOB
+
+[![Start Now](https://img.shields.io/badge/Start%20Now-DM%20@techjob__setup-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techjob_setup/)
+
+**@techjob_setup • Hyderabad, Telangana 🇮🇳**
+
 </div>
 
 ---
 
-## 📬 Contact
+## 💬 Testimonials & Social
+
+Follow on Instagram for daily career tips, optimization strategies, and success stories.  
+**Let's build your standout tech career together!**
+
+---
 
 <div align="center">
 
-### Start with one keyword
-
-**🟣 PORTFOLIO** • **🔵 LINKEDIN** • **🟢 JOB**
-
-[![Start](https://img.shields.io/badge/Start-DM%20PORTFOLIO-1E3A8A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techjob_setup/)
-[![LinkedIn Setup](https://img.shields.io/badge/Need-LinkedIn%20Optimization-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/techjob_setup/)
-
-<sub><strong>@techjob_setup • Hyderabad, Telangana 🇮🇳</strong></sub>
+**Last Updated:** September 2026 | Made with ❤️ for Career Growth
 
 </div>
