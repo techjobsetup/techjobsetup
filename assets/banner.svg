@@ -1,0 +1,74 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0F172A;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1E3A8A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7C3AED;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F59E0B;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="100" cy="50" r="40" fill="#7C3AED" opacity="0.1"/>
+  <circle cx="1100" cy="350" r="60" fill="#3B82F6" opacity="0.1"/>
+  <circle cx="600" cy="400" r="80" fill="#F59E0B" opacity="0.05"/>
+  
+  <!-- Left section: GitHub Icon & Text -->
+  <g>
+    <!-- GitHub Icon -->
+    <rect x="50" y="80" width="120" height="120" rx="10" fill="#ffffff" opacity="0.1" stroke="#7C3AED" stroke-width="2"/>
+    <text x="110" y="155" font-size="60" fill="#7C3AED" text-anchor="middle" font-weight="bold">🐙</text>
+  </g>
+  
+  <!-- Center: Main Title & Tagline -->
+  <g>
+    <text x="600" y="80" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, sans-serif">
+      Build Your Career Profile
+    </text>
+    
+    <text x="600" y="140" font-size="32" fill="#F59E0B" text-anchor="middle" font-family="Arial, sans-serif">
+      GitHub • LinkedIn • Portfolio
+    </text>
+    
+    <line x1="300" y1="165" x2="900" y2="165" stroke="url(#accentGradient)" stroke-width="3"/>
+    
+    <text x="600" y="220" font-size="20" fill="#E5E7EB" text-anchor="middle" font-family="Arial, sans-serif">
+      Resume Optimization • Profile Branding • Recruiter Positioning
+    </text>
+    
+    <text x="600" y="270" font-size="18" fill="#9CA3AF" text-anchor="middle" font-family="Arial, sans-serif" font-style="italic">
+      From GitHub to Career-Ready in Tech
+    </text>
+  </g>
+  
+  <!-- Right section: Growth Icon & CTA -->
+  <g>
+    <rect x="1030" y="80" width="120" height="120" rx="10" fill="#ffffff" opacity="0.1" stroke="#3B82F6" stroke-width="2"/>
+    <text x="1090" y="155" font-size="60" fill="#3B82F6" text-anchor="middle" font-weight="bold">📈</text>
+  </g>
+  
+  <!-- Bottom CTA -->
+  <g>
+    <rect x="350" y="320" width="500" height="60" rx="30" fill="#7C3AED" opacity="0.9" stroke="#F59E0B" stroke-width="2"/>
+    <text x="600" y="355" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, sans-serif">
+      DM @techjob_setup • PORTFOLIO | LINKEDIN | JOB
+    </text>
+  </g>
+  
+  <!-- Bottom branding -->
+  <text x="100" y="385" font-size="12" fill="#9CA3AF" font-family="Arial, sans-serif">
+    @techjob_setup • Hyderabad, India
+  </text>
+  
+  <text x="1100" y="385" font-size="12" fill="#9CA3AF" text-anchor="end" font-family="Arial, sans-serif">
+    Made with AI • Career Coaching
+  </text>
+</svg>
