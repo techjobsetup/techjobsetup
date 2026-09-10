@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://img.shields.io/badge/Made%20with-AI-9F7AEA?style=for-the-badge" alt="Made with AI" />
+
+</div>
+
+![Career Growth Banner](./assets/career-banner.png)
+
 <div align="center">
 
 <img src="./assets/techjob-banner.png" alt="Tech Job Setup Banner" width="100%" />
@@ -12,7 +18,7 @@
 [![DM to Start](https://img.shields.io/badge/DM-PORTFOLIO%20%7C%20LINKEDIN%20%7C%20JOB-F59E0B?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.instagram.com/techjob_setup/)
 [![Location](https://img.shields.io/badge/Hyderabad-Telangana-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=23&duration=2300&pause=900&color=7C3AED&center=true&vCenter=true&width=920&lines=Resume+Optimization+%E2%80%A2+LinkedIn+Growth+%E2%80%A2+GitHub+Branding;Portfolio+Setup+for+Recruiter+Visibility;DM+%22PORTFOLIO%22+%7C+%22LINKEDIN%22+%7C+%22JOB%22+to+Start" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=23&duration=2300&pause=900&color=7C3AED&center=true&vCenter=true&width=920&lines=Resume+Optimization+%E2%80%A2+LinkedIn+Enhancement+%E2%80%A2+GitHub+Branding" alt="typing" />
 
 </div>
 
@@ -20,9 +26,9 @@
 
 ## 👤 About Me
 
-I specialize in empowering candidates to build a complete career-oriented identity across `LinkedIn`, `GitHub`, and personal portfolios. My expertise includes resume optimization, profile enhancement, and strategic career guidance to ensure every detail reflects professional excellence. My mission is to transform ordinary profiles into interview-generating assets that capture the attention of recruiters and hiring managers.
+I specialize in empowering candidates to build a complete career-oriented identity across `LinkedIn`, `GitHub`, and personal portfolios. My expertise includes resume optimization, profile enhancement, and recruiter-focused positioning.
 
-In addition, I provide tailored career guidance for professionals pursuing roles as Automation Engineers. This includes mentoring on C# automation, UI testing, API validation, and desktop testing practices. By aligning technical expertise with industry expectations, I help candidates present themselves as highly skilled and market-ready professionals.
+In addition, I provide tailored career guidance for professionals pursuing roles as Automation Engineers. This includes mentoring on C# automation, UI testing, API validation, and desktop testing practices.
 
 ---
 
