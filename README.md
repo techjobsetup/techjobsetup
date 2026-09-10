@@ -1,13 +1,5 @@
 <div align="center">
 
-![Tech Job Setup Banner](./assets/banner.png)
-
----
-
-</div>
-
-<div align="center">
-
 # 🚀 Tech Job Setup
 
 ## Build a Standout Career Profile on GitHub, LinkedIn & Beyond
@@ -20,7 +12,15 @@
 
 </div>
 
----
+
+<div align="center">
+
+![Tech Job Setup Banner](./assets/banner.png)
+
+
+
+</div>
+
 
 ## 👤 About
 
