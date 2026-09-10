@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🏛️ Greetings, Traveler!
 
-<!--
-**techjobsetup/techjobsetup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Plan. Build. Grow. Succeed."*
 
-Here are some ideas to get you started:
+I am a **Tech Job & Career Coach**, dedicated to helping freshers, students, and software developers build high-impact profiles, master core engineering fundamentals, and stand out to recruiters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📜 About Me
+
+```yaml
+Role: Tech Job & Career Coach | Resume & LinkedIn Optimizer
+Focus: Freshers, Students & Software Professionals
+Core Mission: Elevating recruiter reach & securing technical roles
+Location: Hyderabad, Telangana, India
