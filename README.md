@@ -6,6 +6,8 @@
 
 **Resume Optimization • Career Branding • Recruiter Positioning**
 
+![Banner](./assets/banner.svg)
+
 [![Instagram](https://img.shields.io/badge/Instagram-@techjob__setup-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/techjob_setup/)
 [![Contact](https://img.shields.io/badge/Contact-DM%20Now-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://www.instagram.com/techjob_setup/)
 [![Location](https://img.shields.io/badge/Location-Hyderabad,%20India-3B82F6?style=flat-square&logo=googlemaps&logoColor=white)](#)
