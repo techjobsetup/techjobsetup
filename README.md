@@ -51,39 +51,51 @@ I help tech professionals **build a complete career identity** across GitHub, Li
 
 <div align="center">
 
-### ✨ Elegant 5-Phase Transformation Journey
-
-```
-┌─────────────────┐      ┌──────────────────┐      ┌──────────────────┐      ┌──────────────────┐      ┌─────────────────┐
-│                 │      │                  │      │                  │      │                  │      │                 │
-│  📲 DM KEYWORD  │─────▶│  🔍 PROFILE AUDIT│─────▶│ 📋 STRATEGY DEV  │─────▶│ 🛠️ BUILD & OPT  │─────▶│ 🚀 LAUNCH       │
-│                 │      │                  │      │                  │      │                  │      │                 │
-│  Intake (24h)   │      │  Analysis (48h)  │      │  Planning (2-3d) │      │  Execute (1-2w)  │      │  Monitor        │
-│                 │      │                  │      │                  │      │                  │      │                 │
-└─────────────────┘      └──────────────────┘      └──────────────────┘      └──────────────────┘      └─────────────────┘
-        ▲                          ▲                         ▲                          ▲                         ▲
-        │                          │                         │                          │                         │
-        └──────────────────────────┴─────────────────────────┴──────────────────────────┴─────────────────────────┘
-                                   Continuous Improvement & Optimization
-```
+### ✨ Start Your Career Transformation Journey
 
 </div>
-
-### 📍 Process Phases Breakdown:
 
 <div align="center">
 
-| Phase | Timeline | Deliverable | Status |
-|:---:|:---:|:---|:---:|
-| **1️⃣ DM Keyword Intake** | 24 hrs | Initial consultation & needs assessment | 📲 Start |
-| **2️⃣ Profile Audit** | 48 hrs | Deep analysis + gap identification + competitor research | 🔍 Analyze |
-| **3️⃣ Strategy Development** | 2-3 days | Custom optimization plan + action roadmap + timeline | 📋 Plan |
-| **4️⃣ Build & Optimize** | 1-2 weeks | Design + copywriting + technical setup + deployment | 🛠️ Create |
-| **5️⃣ Launch & Monitor** | Ongoing | Live deployment + performance tracking + monthly reviews | 🚀 Launch |
+[![Start on Instagram](https://img.shields.io/badge/📲%20Step%201:%20Message%20on%20Instagram-@techjob__setup-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techjob_setup/)
+
+**Send:** PORTFOLIO • LINKEDIN • JOB
+
+---
 
 </div>
 
-**Keyword options:** PORTFOLIO | LINKEDIN | JOB
+### 🎯 Complete 5-Phase Process Flow
+
+<div align="center">
+
+| Phase | Icon | Action | Focus |
+|:---:|:---:|:---|:---|
+| **1. DM Intake** | 📲 | [Message on Instagram](https://www.instagram.com/techjob_setup/) | Initial Consultation |
+| **2. Profile Audit** | 🔍 | Comprehensive Analysis | Gap Identification |
+| **3. Strategy Dev** | 📋 | Custom Planning | Optimization Roadmap |
+| **4. Build & Opt** | 🛠️ | Design & Implementation | Full Transformation |
+| **5. Launch & Monitor** | 🚀 | Live Deployment | Continuous Growth |
+
+**Timeline:** 24hrs → 48hrs → 2-3 days → 1-2 weeks → Ongoing
+
+</div>
+
+---
+
+### 🌐 Connect & Start
+
+<div align="center">
+
+**Click to begin your transformation:**
+
+[![Instagram Profile](https://img.shields.io/badge/Visit%20Profile-@techjob__setup-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/techjob_setup/)
+[![Send Direct Message](https://img.shields.io/badge/Send%20DM-Start%20Now-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/techjob_setup/)
+[![Visit GitHub](https://img.shields.io/badge/Visit%20GitHub-techjobsetup-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/techjobsetup/)
+
+**24-Hour Response Guarantee** ⚡
+
+</div>
 
 ---
 
@@ -125,7 +137,7 @@ I help tech professionals **build a complete career identity** across GitHub, Li
 
 ## 🚀 Quick Start
 
-1. **Message on Instagram:** [@techjob_setup](https://www.instagram.com/techjob_setup/)
+1. **Message on Instagram:** [![Instagram](https://img.shields.io/badge/@techjob__setup-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/techjob_setup/)
 2. **Choose Your Focus:**
    - 🎨 **PORTFOLIO** — Build your online presence
    - 💼 **LINKEDIN** — Optimize your profile
@@ -202,7 +214,7 @@ I help tech professionals **build a complete career identity** across GitHub, Li
 
 ## 💬 Follow for Daily Insights
 
-📲 **Instagram:** [@techjob_setup](https://www.instagram.com/techjob_setup/)
+📲 **Instagram:** [![Follow](https://img.shields.io/badge/@techjob__setup-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/techjob_setup/)
 
 - Daily career tips & optimization strategies
 - Client success stories
@@ -255,7 +267,9 @@ A: Yes! We provide guidelines and ongoing support.
 
 ---
 
-[![Follow on Instagram](https://img.shields.io/badge/Follow-@techjob__setup-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/techjob_setup/)
+### 📲 Ready to Get Started?
+
+[![Message on Instagram](https://img.shields.io/badge/DM%20on%20Instagram-@techjob__setup-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techjob_setup/)
 
 **Last Updated:** September 2026 | Made with ❤️ for Career Growth
 
